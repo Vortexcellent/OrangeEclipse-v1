@@ -9476,7 +9476,7 @@ OrangeEclipse by Alucard & Vealoth
     background-color: hsla(22,85%,57%,.5);
 }
 .theme-dark .textArea-20yzAH {
-    color: #F051BB;
+    color: #c24a28;
 }
 .theme-dark .autocomplete-1TnWNR { background: rgba(238,119,51,1); 
 }
@@ -9545,7 +9545,7 @@ OrangeEclipse by Alucard & Vealoth
 }
 .channels-wrap [class*="scroller-"] [class*="Text"][class*="content"][class*="Selected"] {
     background-color: transparent !important;
-    border: 2px solid #F051BB;
+    border: 2px solid #c24a28;
     border-radius: 0 15px 15px 0;
 }
 .theme-dark .friends-table .messages .message-group-blocked, .theme-dark .messages-wrapper .messages .message-group-blocked {
