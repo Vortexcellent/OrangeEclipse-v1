@@ -1,0 +1,20 @@
+//META{"name":"OrangeEclipse","version":"1","author":"Alucard","description":"A custom theme for a client."}*//{}
+/* "OrangeEclipse" by @Alucard */
+/* Used "ClearVision - Sapphire v5.24" by @Zerthox and "Elegant Blue V1" by @Arch for specific elements and examples*/
+
+/* IMPORT CSS FROM GITHUB */
+@import url(https://gitcdn.xyz/repo/Vortexcellent/OrangeEclipse-v1/master/OrangeEclipse-v1.min.css);
+/*
+============== CUSTOM COLORS ===============
+*/
+:root {
+	--main-color: #ee773e;
+	--hover-color: #c24a28;
+}
+/*
+========= REPLACE THE THEME LINK WITH YOURS ==========
+*/
+body::after
+{
+    background-image: url(https://raw.githubusercontent.com/Vortexcellent/OrangeEclipse-v1/master/oe.jpg) !important; /* IMPORTANT: Link needs be HTTPS, I recommend Imgur */
+}
